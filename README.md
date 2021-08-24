@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development & New Technologies 
 - 🌱 I’m currently learning Dot & Angular Js
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me instagram @_.darshan_.__
+- 📫 How to reach me:visit "Darshan Kusumakar" on Google Searcher
 
 <!---
 xyresicdarshan/xyresicdarshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
